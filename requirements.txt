@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+email-validator
+pwdlib[argon2]
+PyJWT
+mysql-connector-python
